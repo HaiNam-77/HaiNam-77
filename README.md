@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Trần Hải Nam 👋
 
-<!--
-**HaiNam-77/HaiNam-77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Information Technology** student at **Posts and Telecommunications Institute of Technology (PTIT)**  
+🚀 Passionate **AI Engineer Intern** exploring Deep Learning, Computer Vision, and NLP (LLMs, RAG).  
+📍 Hanoi, Vietnam | ✉️ [Email của bạn]
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+- **Languages:** Python, C++, Java 21, SQL
+- **AI & Deep Learning:** PyTorch, Hugging Face, Scikit-learn
+- **Domains:** 
+  - **Computer Vision:** CNN (LeNet, AlexNet, VGG, ResNet), Object Detection (YOLO, Faster R-CNN, SSD)
+  - **NLP & AI Agent:** LLMs, RAG, Prompt Engineering, Word Embeddings (Word2Vec, GloVe, FastText)
+- **Web & Backend:** Spring Boot, RESTful APIs, React, MySQL
+- **Tools:** Git/GitHub (Git Flow), LaTeX (Overleaf), Jupyter Notebook, Google Colab
+
+---
+
+### 📌 Featured Repositories
+- 🌐 [courseweb](https://github.com/Bach-AI-Dev/courseweb): E-learning web application with real-time video progress tracking (Spring Boot, React, MySQL).
+- 👁️ [Computer-Vision](https://github.com/HaiNam-77/Computer-Vision): Experiments with CNN architectures, Transfer Learning, and Object Detection models.
+- 🧠 [Deep-Learning](https://github.com/HaiNam-77/Deep-Learning): Implementations of MLPs, activation functions, loss functions, optimizers, and regularization in PyTorch.
+- 💬 [NLP](https://github.com/HaiNam-77/NLP): Text preprocessing, Word Embeddings, and exploration of Transformer & RAG architectures.
+- 📊 [Machine-Learning](https://github.com/HaiNam-77/Machine-Learning): Core Machine Learning algorithms and mathematical foundation practices.
+
+---
+⭐ *Welcome any feedback and collaboration opportunities!*
