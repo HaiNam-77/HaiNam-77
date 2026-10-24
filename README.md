@@ -12,8 +12,8 @@
 - **Domains:** 
   - **Computer Vision:** CNN (LeNet, AlexNet, VGG, ResNet), Object Detection (YOLO, Faster R-CNN, SSD)
   - **NLP & AI Agent:** LLMs, RAG, Prompt Engineering, Word Embeddings (Word2Vec, GloVe, FastText)
-- **Web & Backend:** Spring Boot, RESTful APIs, React, MySQL
-- **Tools:** Git/GitHub (Git Flow), LaTeX (Overleaf), Jupyter Notebook, Google Colab
+- **Web & Backend:** Spring Boot, RESTful APIs, MySQL
+- **Tools:** Git/GitHub (Git Flow), LaTeX (Overleaf), Jupyter Notebook, Google Colab, Kaggle
 
 ---
 
