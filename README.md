@@ -2,7 +2,7 @@
 
 🎓 **Information Technology** student at **Posts and Telecommunications Institute of Technology (PTIT)**  
 🚀 Passionate **AI Engineer Intern** exploring Deep Learning, Computer Vision, and NLP (LLMs, RAG).  
-📍 Hanoi, Vietnam | ✉️ [Email của bạn]
+📍 Hanoi, Vietnam | ✉️ tranhainam3082k6@gmail.com
 
 ---
 
